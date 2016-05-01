@@ -18,3 +18,12 @@ module.exports = {
 	// ...
 }
 ```
+
+#### React
+
+Extend `esayemm/lib/react`. Requires the [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react).
+
+```
+# for using eslint global cli or install locally
+npm i -g eslint-plugin-react
+```
