@@ -10,6 +10,7 @@
   "license": "ISC",
   "peerDependencies": {
     "eslint": "^2.5.3",
-    "babel-eslint": "^6.0.0"
+    "babel-eslint": "^6.0.0",
+    "eslint-plugin-react": "^5.0.1"
   }
 }
