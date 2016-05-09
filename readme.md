@@ -19,6 +19,15 @@ module.exports = {
 }
 ```
 
+Optionally: Add a `.eslintignore` file.
+
+```js
+// .eslintignore
+// takes globs
+build/
+node_modules/
+```
+
 #### React
 
 Extend `esayemm/lib/react`. Requires the [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react).
