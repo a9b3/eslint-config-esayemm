@@ -38,3 +38,11 @@ Extend `esayemm/react`. Requires the [eslint-plugin-react](https://github.com/ya
 # for using eslint global cli or install locally
 npm i eslint-plugin-react --save-dev
 ```
+
+## Dev
+
+Rules
+
+- 0 - never notify
+- 1 - warn
+- 2 - error
