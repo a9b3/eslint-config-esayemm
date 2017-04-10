@@ -1,14 +1,16 @@
-#eslint-config-esayemm
+# eslint-config-esayemm
 
 Install
 
-```
+```sh
 npm i --save-dev eslint-config-esayemm
 ```
 
+## Configure
+
 Configure
 
-```
+```js
 // .eslintrc.js
 module.exports = {
 	"extends": [
@@ -28,11 +30,11 @@ build/
 node_modules/
 ```
 
-#### React
+## React
 
-Extend `esayemm/lib/react`. Requires the [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react).
+Extend `esayemm/react`. Requires the [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react).
 
-```
+```sh
 # for using eslint global cli or install locally
-npm i -g eslint-plugin-react
+npm i eslint-plugin-react --save-dev
 ```
