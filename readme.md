@@ -3,7 +3,7 @@
 Install
 
 ```sh
-npm i --save-dev eslint-config-esayemm
+yarn add --dev eslint-config-esayemm
 ```
 
 ## Configure
