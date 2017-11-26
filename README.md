@@ -1,27 +1,30 @@
 # eslint-config-esayemm
 
-Install
-
 ```sh
 yarn add --dev eslint-config-esayemm
 ```
 
-## Configure
+## Usage
 
-Configure
+#### Regular JS environment
 
 ```js
-// .eslintrc.js
 module.exports = {
-	"extends": [
-		// ...
-		"esayemm",
-	],
-	// ...
+	"extends": ["esayemm"]
 }
 ```
 
-Optionally: Add a `.eslintignore` file.
+#### React environment
+
+Also requires `yarn add eslint-plugin-react --dev`
+
+```js
+module.exports = {
+	"extends": ["esayemm/react"]
+}
+```
+
+#### Optionally: Add a `.eslintignore` file
 
 ```js
 // .eslintignore
@@ -30,18 +33,9 @@ build/
 node_modules/
 ```
 
-## React
-
-Extend `esayemm/react`. Requires the [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react).
-
-```sh
-# for using eslint global cli or install locally
-npm i eslint-plugin-react --save-dev
-```
-
 ## Dev
 
-Rules
+#### Rules
 
 - 0 - never notify
 - 1 - warn
