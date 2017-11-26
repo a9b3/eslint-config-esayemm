@@ -3,8 +3,8 @@ module.exports = {
     "react",
   ],
   "extends": [
-    "esayemm/lib/defaults",
-    "esayemm/lib/ecmascript6",
+    "esayemm/configs/defaults",
+    "esayemm/configs/ecmascript6",
     "plugin:react/recommended",
   ],
   "rules": {

@@ -1,6 +1,6 @@
 module.exports = {
   "extends": [
     "esayemm",
-    "esayemm/lib/react",
+    "esayemm/configs/react",
   ],
 }
