@@ -20,7 +20,7 @@ Also requires `yarn add eslint-plugin-react --dev`
 
 ```js
 module.exports = {
-	"extends": ["esayemm/react"]
+	"extends": ["esayemm/configs/react"]
 }
 ```
 

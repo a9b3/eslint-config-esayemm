@@ -1,5 +1,5 @@
 module.exports = {
-  "rules": {
+  rules: {
     "comma-dangle": ['error', 'always-multiline'],
     "no-cond-assign": [2, 'always'],
     "no-constant-condition": 2,
@@ -9,8 +9,6 @@ module.exports = {
     "no-dupe-keys": 2,
     "no-duplicate-case": 2,
     "no-empty": 2,
-
-    // ex. /^abc[]/
     "no-empty-character-class": 2,
     "no-ex-assign": 2,
     "no-extra-boolean-cast": 2,
@@ -19,7 +17,7 @@ module.exports = {
     "no-func-assign": 2,
     "no-inner-declarations": 2,
     "no-invalid-regexp": 2,
-    "no-irregular-whitespace": [2, {'skipComments': true}],
+    "no-irregular-whitespace": [2, {skipComments: true}],
     "no-negated-in-lhs": 2,
     "no-obj-calls": 2,
     "no-regex-spaces": 2,
@@ -33,11 +31,11 @@ module.exports = {
     /*
      * Best Practices
      */
-
-    "dot-location": [2, "property"],
+    "dot-location": [2, 'property'],
     "dot-notation": 2,
     "eqeqeq": 2,
     "no-caller": 2,
+    "no-delete-var": 2,
     "no-empty-function": 0,
     "no-empty-pattern": 2,
     "no-eq-null": 2,
@@ -63,23 +61,20 @@ module.exports = {
     "no-self-assign": 2,
     "no-self-compare": 2,
     "no-sequences": 2,
+    "no-shadow": 2,
     "no-throw-literal": 2,
     "no-unused-expressions": 0,
+    "no-unused-vars": 2,
+    "no-use-before-define": 0,
     "no-useless-call": 2,
     "no-useless-concat": 2,
     "no-useless-escape": 0,
     "no-void": 2,
     "no-with": 2,
 
-    "no-delete-var": 2,
-    "no-shadow": 2,
-    "no-unused-vars": 2,
-    "no-use-before-define": 0,
-
     /*
      * Stylistics
      */
-
     "array-bracket-spacing": 0,
     "block-spacing": [2, "always"],
     "brace-style": [2, "1tbs", {
@@ -94,13 +89,13 @@ module.exports = {
     "jsx-quotes": [2, "prefer-single"],
     "key-spacing": [2, {
       "singleLine": {
-        "beforeColon": false,
         "afterColon": true,
+        "beforeColon": false,
       },
       "multiLine": {
-        "beforeColon": false,
         "afterColon": true,
         "align": "colon",
+        "beforeColon": false,
       },
     }],
     "no-multiple-empty-lines": 2,
