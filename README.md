@@ -32,11 +32,3 @@ module.exports = {
 build/
 node_modules/
 ```
-
-## Dev
-
-#### Rules
-
-- 0 - never notify
-- 1 - warn
-- 2 - error
