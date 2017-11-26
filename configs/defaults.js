@@ -109,7 +109,6 @@ module.exports = {
     "no-unneeded-ternary": 2,
     "no-whitespace-before-property": 2,
     "object-curly-spacing": 0,
-    // fuck you semicolons
     "semi": [2, "never"],
   },
 }
