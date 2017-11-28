@@ -33,6 +33,12 @@ build/
 node_modules/
 ```
 
+## Development
+
+#### Cut a release
+
+Run `npm version [patch|minor|major]`
+
 ## Links
 
 - [working with rules](https://eslint.org/docs/developer-guide/working-with-rules)
