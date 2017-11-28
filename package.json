@@ -9,7 +9,11 @@
   "author": "Sam Lau",
   "license": "ISC",
   "peerDependencies": {
-    "eslint": ">=3.0.0",
-    "babel-eslint": ">=7.0.0"
+    "babel-eslint": ">=7.0.0",
+    "eslint": ">=3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "4.12.0",
+    "mocha": "4.0.1"
   }
 }
