@@ -32,3 +32,8 @@ module.exports = {
 build/
 node_modules/
 ```
+
+## Links
+
+- [working with rules](https://eslint.org/docs/developer-guide/working-with-rules)
+- [eslint RuleTester API](https://eslint.org/docs/developer-guide/nodejs-api#ruletester)
