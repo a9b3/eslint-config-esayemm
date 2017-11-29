@@ -103,7 +103,7 @@ module.exports = {
     "no-trailing-spaces": 2,
     "no-unneeded-ternary": 2,
     "no-whitespace-before-property": 2,
-    "object-curly-spacing": 0,
+    "object-curly-spacing": 2,
     "semi": [2, "never"],
   },
 }
