@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-eslint-plugin-esayemm@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.4.tgz#40e047fa919f772425ecba669ee73a63a66cf213"
+eslint-plugin-esayemm@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.5.tgz#c570637a662a3562e58c7438996465e9337efc38"
