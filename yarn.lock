@@ -5,3 +5,7 @@
 eslint-plugin-esayemm@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.7.tgz#65881f55461c003b2b3b03897a066418f4d289f3"
+
+prettier@1.9.2:
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.9.2.tgz#96bc2132f7a32338e6078aeb29727178c6335827"

@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "eslint-plugin-esayemm": "0.0.7"
+  },
+  "devDependencies": {
+    "prettier": "1.9.2"
   }
 }
