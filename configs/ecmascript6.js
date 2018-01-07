@@ -2,23 +2,11 @@ module.exports = {
   parser: 'babel-eslint',
   parserOptions: {
     ecmaVersion: 7,
-    ecmaFeatures: {
-      jsx: true,
-      modules: true,
-    },
+    ecmaFeatures: { jsx: true, modules: true },
     sourceType: 'module',
   },
-  env: {
-    es6: true,
-  },
+  env: { es6: true },
   rules: {
-    'arrow-spacing': [
-      2,
-      {
-        after: true,
-        before: true,
-      },
-    ],
     'constructor-super': 2,
     'no-class-assign': 2,
     'no-const-assign': 2,
