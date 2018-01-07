@@ -1,12 +1,7 @@
 module.exports = {
-  plugins: ['esayemm'],
   extends: [
+    'plugin:esayemm/recommended',
     'esayemm/configs/defaults',
     'esayemm/configs/ecmascript6',
-    'plugin:prettier/recommended',
   ],
-  rules: {
-    'esayemm/align-imports': 2,
-    'esayemm/sort-imports': 2,
-  },
 }
