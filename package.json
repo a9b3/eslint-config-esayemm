@@ -9,8 +9,8 @@
   "author": "Sam Lau",
   "license": "ISC",
   "peerDependencies": {
-    "babel-eslint": ">=7.0.0",
-    "eslint": ">=3.0.0"
+    "babel-eslint": ">=8.0.0",
+    "eslint": ">=4.0.0"
   },
   "dependencies": {
     "eslint-plugin-esayemm": "0.0.8"
