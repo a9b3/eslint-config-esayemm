@@ -8,9 +8,9 @@ eslint-config-prettier@2.9.0:
   dependencies:
     get-stdin "^5.0.1"
 
-eslint-plugin-esayemm@0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.7.tgz#65881f55461c003b2b3b03897a066418f4d289f3"
+eslint-plugin-esayemm@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.8.tgz#444465d643a615b84bd2d7c88cc0625da07ac6e2"
 
 eslint-plugin-prettier@2.4.0:
   version "2.4.0"
