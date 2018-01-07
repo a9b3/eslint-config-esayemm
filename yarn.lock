@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-eslint-plugin-esayemm@0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.8.tgz#444465d643a615b84bd2d7c88cc0625da07ac6e2"
+eslint-plugin-esayemm@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.9.tgz#33dd298e0de30a06ee788da8a25d9418893c642b"
 
 prettier@1.9.2:
   version "1.9.2"
