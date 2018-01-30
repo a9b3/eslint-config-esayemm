@@ -1,6 +1,5 @@
 module.exports = {
   rules: {
-    'consistent-this': [2, 'that'],
     'dot-location': [2, 'property'],
     'dot-notation': 2,
     'no-caller': 2,
