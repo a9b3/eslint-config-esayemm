@@ -155,9 +155,9 @@ escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-eslint-plugin-esayemm@0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.9.tgz#33dd298e0de30a06ee788da8a25d9418893c642b"
+eslint-plugin-esayemm@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.0.10.tgz#747e78f0c7ed64a05d4fbbd987c70a26c84966d5"
 
 eslint-plugin-react@7.5.1:
   version "7.5.1"
