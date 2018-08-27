@@ -165,9 +165,9 @@ escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-eslint-plugin-esayemm@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.1.1.tgz#34bdf5ed321a79ffa39307a8cda143df92eb102f"
+eslint-plugin-esayemm@0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-esayemm/-/eslint-plugin-esayemm-0.1.2.tgz#0604065fe347cf452c259dea99b24dee4665ba74"
   dependencies:
     ramda "0.25.0"
 
