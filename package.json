@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-esayemm",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "esayemm's eslint configs",
   "main": "index.js",
   "scripts": {
